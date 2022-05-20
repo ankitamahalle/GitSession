@@ -38,4 +38,9 @@ public class HomePage {
 		keyword.driver.findElement(assignmentLink).click();
 	}
 
+	public String getTitle() {
+		return keyword.driver.getTitle();
+	
+	}
+
 }
