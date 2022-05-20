@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22946" started-at="2022-05-18T17:29:47 IST" finished-at="2022-05-18T17:30:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22946" started-at="2022-05-18T17:29:47 IST" finished-at="2022-05-18T17:30:10 IST">
+      <class name="com.resonance.RegressionTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.resonance.RegressionTests@a74868d]" name="setUp" is-config="true" duration-ms="20940" started-at="2022-05-18T17:29:47 IST" finished-at="2022-05-18T17:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verfifyConfirmationAlertIsOpened()[pri:0, instance:com.resonance.RegressionTests@a74868d]" name="verfifyConfirmationAlertIsOpened" duration-ms="1965" started-at="2022-05-18T17:30:08 IST" finished-at="2022-05-18T17:30:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfifyConfirmationAlertIsOpened -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.resonance.RegressionTests@a74868d]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-05-18T17:30:10 IST" finished-at="2022-05-18T17:30:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resonance.RegressionTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
